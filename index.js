@@ -385,7 +385,8 @@ function habitat() {
                  {value: "Grasslands", text:"Grasslands" }, 
                  {value: "Low Rocky Ridges", text: "Low Rocky Ridges"},
 		{value: "Wetlands", text: "Wetlands"},
-		{value: "Coastal Regions", text: "Coastal Regions"}];
+		{value: "Coastal Regions", text: "Coastal Regions"},
+		{value: "Snow", text: "Snow"}];
 
     
     /* Selecting the #key id from the HTML file and appending the dropdown
