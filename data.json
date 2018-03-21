@@ -129,7 +129,7 @@
    "size":"1",
    "image": "img/init/african elephant.png",
    "x": 0,
-   "y": 160, 
+   "y": 155, 
    "time": [{"year":"2008","status":"Endangered", "image":"img/endangered/african elephant.png"},
             {"year":"2004","status":"Vulnerable", "image":"img/vulnerable/african elephant.png"},
             {"year":"1996","status":"Endangered", "image":"img/endangered/african elephant.png"},
