@@ -484,12 +484,12 @@ function trend() {
         .text("\n"+"Decreasing")
         .attr('y', 80);
     
-   /* tren.append('image')
-        .attr("xlink:href","img/init/javan_rinho.png")
+  tren.append('image')
+        .attr("xlink:href","img/init/leopard.png")
         .attr("height", 70)
         .attr("width", 70)
         .attr('x', 80)
-        .attr('y', 40);*/
+        .attr('y', 40);
     
 }
 
