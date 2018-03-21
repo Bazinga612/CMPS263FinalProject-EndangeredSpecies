@@ -144,8 +144,8 @@
    "trend": "Increasing",
    "size":"1.1",
    "image": "img/init/blue_whale.png", 
-   "x": 540,
-   "y": 180,
+   "x": 530,
+   "y": 185,
    "time": [{"year":"2008","status":"Endangered", "image":"img/endangered/blue_whale.png"},
             {"year":"1986","status":"Endangered", "image":"img/endangered/blue_whale.png"}]
  },
@@ -250,7 +250,7 @@
    "size":"6",
    "image": "img/init/fox.png", 
    "x": 520,
-   "y": 160,
+   "y": 150,
    "time": [{"year":"2016","status":"Endangered", "image":"img/endangered/fox.png"},
             {"year":"2004","status":" Critically Endangered", "image":"img/critical_end/fox.png"}]
  },
@@ -321,7 +321,7 @@
    "size":"2",
    "image": "img/init/great_white_shark.png", 
    "x": 700,
-   "y": 105,
+   "y": 95,
    "time": [{"year":"2009","status":"Vulnerable", "image":"img/vulnerable/great_white_shark.png"},
             {"year":"1996","status":"Vulnerable", "image":"img/vulnerable/great_white_shark.png"}]
  },
