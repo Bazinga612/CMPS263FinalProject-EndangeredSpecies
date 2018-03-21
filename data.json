@@ -84,7 +84,7 @@
    "size":"4",
    "image": "img/init/chimpanzee.png", 
    "x": 620,
-   "y": 165,
+   "y": 155,
    "time": [{"year":"2008","status":"Endangered", "image":"img/endangered/chimpanzee.png"},
             {"year":"1996","status":"Endangered", "image":"img/endangered/chimpanzee.png"},
             {"year":"1986","status":"Vulnerable", "image":"img/vulnerable/chimpanzee.png"}]
@@ -145,7 +145,7 @@
    "size":"1",
    "image": "img/init/blue_whale.png", 
    "x": 540,
-   "y": 165,
+   "y": 160,
    "time": [{"year":"2008","status":"Endangered", "image":"img/endangered/blue_whale.png"},
             {"year":"1986","status":"Endangered", "image":"img/endangered/blue_whale.png"}]
  },
