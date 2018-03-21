@@ -377,13 +377,15 @@ function habitat() {
     
     /* Pairing the value and text for the dropdown menu*/
     var habit = [{value: "All" , text: "All"},
-				{value: "Tropical Forests" , text: "Tropical Forests"}, 
+		{value: "Tropical Forests" , text: "Tropical Forests"}, 
                  {value: "Forests", text: "Forests"}, 
                  {value: "Oceans", text: "Oceans"}, 
                  {value: "Moist, Dry forests", text: "Moist, Dry forests"}, 
                  {value: "Temperate Forests", text: "Temperate Forests"}, 
                  {value: "Grasslands", text:"Grasslands" }, 
-                 {value: "Low Rocky Ridges", text: "Low Rocky Ridges"} ];
+                 {value: "Low Rocky Ridges", text: "Low Rocky Ridges"},
+		{value: "Wetlands", text: "Wetlands"},
+		{value: "Coastal Regions", text: "Coastal Regions"}];
 
     
     /* Selecting the #key id from the HTML file and appending the dropdown
