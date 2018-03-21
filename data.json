@@ -68,8 +68,8 @@
    "trend": "Decreasing",
    "size":"2.2",
    "image": "img/init/javan_rinho.png", 
-   "x": 510,
-   "y": 0,
+   "x": 515,
+   "y": 5,
    "time": [{"year":"2008","status":"Critically Endangered", "image":"img/critical_end/javan_rinho.png"},
             {"year":"1996","status":"Critically Endangered", "image":"img/critical_end/javan_rinho.png"},
             {"year":"1986","status":"Endangered", "image":"img/endangered/javan_rinho.png"}]
