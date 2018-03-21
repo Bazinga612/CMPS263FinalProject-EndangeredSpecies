@@ -235,7 +235,7 @@
    "size":"5",
    "image": "img/init/whopping_crane.png", 
    "x": 300,
-   "y": 243,
+   "y": 240,
    "time": [{"year":"2017","status":"Endangered", "image":"img/endangered/whopping_crane.png"},
             {"year":"1994","status":"Endangered", "image":"img/endangered/whopping_crane.png"},
             {"year":"1988","status":"Threatened", "image":"img/threat/whopping_crane.png"}]
