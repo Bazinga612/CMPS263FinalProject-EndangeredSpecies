@@ -313,7 +313,7 @@ var images = svg.append("svg").selectAll("svg")
                 .append("image")
                 .attr("class", "images")
 				.attr("xlink:href", function(d) {return d.image;})
-				.attr("width", function(d) {return (1/d.size) * 290;})
+				//.attr("width", function(d) {return (1/d.size) * 290;})
 				.attr("height", function(d) 
 					{
 						console.log(d.name,(1/d.size) * 500);
