@@ -145,7 +145,7 @@
    "size":"1",
    "image": "img/init/blue_whale.png", 
    "x": 540,
-   "y": 100,
+   "y": 170,
    "time": [{"year":"2008","status":"Endangered", "image":"img/endangered/blue_whale.png"},
             {"year":"1986","status":"Endangered", "image":"img/endangered/blue_whale.png"}]
  },
