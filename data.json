@@ -69,7 +69,7 @@
    "size":"2.2",
    "image": "img/init/javan_rinho.png", 
    "x": 515,
-   "y": 10,
+   "y": 20,
    "time": [{"year":"2008","status":"Critically Endangered", "image":"img/critical_end/javan_rinho.png"},
             {"year":"1996","status":"Critically Endangered", "image":"img/critical_end/javan_rinho.png"},
             {"year":"1986","status":"Endangered", "image":"img/endangered/javan_rinho.png"}]
@@ -129,7 +129,7 @@
    "size":"1.1",
    "image": "img/init/african elephant.png",
    "x": 0,
-   "y": 160, 
+   "y": 167, 
    "time": [{"year":"2008","status":"Endangered", "image":"img/endangered/african elephant.png"},
             {"year":"2004","status":"Vulnerable", "image":"img/vulnerable/african elephant.png"},
             {"year":"1996","status":"Endangered", "image":"img/endangered/african elephant.png"},
