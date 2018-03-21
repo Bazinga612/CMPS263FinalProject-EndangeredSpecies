@@ -485,7 +485,7 @@ function trend() {
         .attr('y', 80);
     
     tren.append('image')
-        .attr("xlink:href","img/dec_rhino.png")
+        .attr("xlink:href","img/init/javan_rhino.png")
         .attr("height", 70)
         .attr("width", 70)
         .attr('x', 80)
