@@ -207,7 +207,7 @@ function yearwise_data_load(year,habitat)
 		
 			d.time_year.push(d.time[i].year);
 			d.time_year.push("1975");
-		if(parseInt(year)<parseInt(RECENT_VALUE[d.name]))
+		if(parseInt(year)<parseInt(RECENT_VALUE[d.name])&&!d.time_year.includes(year))
 		{
 			var data2={};
 			var index1=d.time_year.indexOf(RECENT_VALUE[d.name]);
@@ -224,7 +224,7 @@ function yearwise_data_load(year,habitat)
 			
 		}
 		if(d.time_year.includes(year)==true && year=="1975")
-		{
+		{	RECENT_VALUE[d.name]="1975";
 			var data2={};
 			var index=d.time_year.indexOf(year);
 			data2.image=d.time_image[index];
@@ -262,7 +262,7 @@ function yearwise_data_load(year,habitat)
 			else
 			{
 			var data2={};
-			console.log(year,d.name,RECENT_VALUE[d.name]);
+			//console.log(year,d.name,RECENT_VALUE[d.name]);
 			var rc=RECENT_VALUE[d.name];
 			var index=d.time_year.indexOf(rc);
 			if(rc=="1975")
@@ -316,7 +316,7 @@ var images = svg.append("svg").selectAll("svg")
 				//.attr("width", function(d) {return (1/d.size) * 290;})
 				.attr("height", function(d) 
 					{
-						console.log(d.name,(1/d.size) * 500);
+						//console.log(d.name,(1/d.size) * 500);
                       return (1/d.size) * 290;
                     })
 				.attr("x",function(d) {return d.x;})
