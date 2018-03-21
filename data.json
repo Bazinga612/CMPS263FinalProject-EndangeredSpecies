@@ -69,7 +69,7 @@
    "size":"2",
    "image": "img/init/javan_rinho.png", 
    "x": 510,
-   "y": 20,
+   "y": 5,
    "time": [{"year":"2008","status":"Critically Endangered", "image":"img/critical_end/javan_rinho.png"},
             {"year":"1996","status":"Critically Endangered", "image":"img/critical_end/javan_rinho.png"},
             {"year":"1986","status":"Endangered", "image":"img/endangered/javan_rinho.png"}]
@@ -84,7 +84,7 @@
    "size":"4",
    "image": "img/init/chimpanzee.png", 
    "x": 620,
-   "y": 168,
+   "y": 160,
    "time": [{"year":"2008","status":"Endangered", "image":"img/endangered/chimpanzee.png"},
             {"year":"1996","status":"Endangered", "image":"img/endangered/chimpanzee.png"},
             {"year":"1986","status":"Vulnerable", "image":"img/vulnerable/chimpanzee.png"}]
@@ -145,7 +145,7 @@
    "size":"1",
    "image": "img/init/blue_whale.png", 
    "x": 540,
-   "y": 180,
+   "y": 170,
    "time": [{"year":"2008","status":"Endangered", "image":"img/endangered/blue_whale.png"},
             {"year":"1986","status":"Endangered", "image":"img/endangered/blue_whale.png"}]
  },
